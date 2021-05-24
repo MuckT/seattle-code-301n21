@@ -2,12 +2,13 @@
 
 ## Overview
 
-Today we will use the skills we learned over the week to build a new appliaction: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
+Today we will use the skills we learned over the week to build a new application: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
 
 ## Daily Plan
 
-- Warm-up exercise
-- Introduction of today's code challenge topic
+- Feedback review
+- Code challenge review: `.sort()`
+- [Warm-up exercise](./warm-up.md)
 - Build City Explorer (React)
 - Lab Preview
 
@@ -19,3 +20,12 @@ As a result of completing lecture 5 of Code 301, students will:
 - Hold state in the application
 - Use forms in React
 - Conditionally render data
+
+## Feedback Review
+
+- Lectures have been shorter/more on time
+  - Got both positive and negative feedback
+- Code challenges are "dope", "cool"
+- Code review is helpful for putting it all together
+- Wish there was more focus on React data flow in week 1
+  - Agreed! We're adding it to the curriculum for next round.

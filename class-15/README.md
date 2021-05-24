@@ -6,7 +6,6 @@ Today is the last day of formal lecture. For the remainder of this course, you w
 
 ## Daily Plan
 
-- Discussion on diversity, inclusion, equity, and belonging in the tech industry
 - Warm-up exercise
 - Review code challenges
 - Wrap up book app
